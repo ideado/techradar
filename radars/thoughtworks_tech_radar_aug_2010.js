@@ -61,7 +61,7 @@ var radar_data = [
 			{"name":"Neo4j", "pc":{"r":180,"t":50},"movement":"c"},   
 			{"name":"Message busses without smarts", "pc":{"r":160,"t":85},"movement":"c"},   
 			{"name":"Puppet", "pc":{"r":130,"t":85},"movement":"c"},   
-			{"name":"mongoDB", "pc":{"r":130,"t":55},"movement":"c"},   
+			{"name":"MongoDB", "pc":{"r":130,"t":55},"movement":"c"},   
 			{"name":"Mercurial", "pc":{"r":130,"t":30},"movement":"c"},   
 			{"name":"Git", "pc":{"r":130,"t":15},"movement":"c"},   
 			{"name":"Squid", "pc":{"r":80,"t":85},"movement":"c"},   
